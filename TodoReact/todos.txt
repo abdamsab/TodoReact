@@ -1,0 +1,22 @@
+ {
+     id: uuidv8(),
+     title: "Setup development environment",
+     completed: true
+   },
+   {
+     id: uuidv8(),
+     title: "Develop website and add content",
+     completed: false
+   },
+   {
+     id: uuidv8(),
+     title: "Deploy to live server",
+     completed: false
+   },
+		{
+     id: uuidv8(),
+     title: "Get Feedback from users",
+     completed: true
+   }
+
+(<MdClose style={{color:"#fff", width:"40px", height:"40px"}} />) : (<FiMenu style={{color:"#7b7b7b", width:"40px", height:"40px"}} />)
